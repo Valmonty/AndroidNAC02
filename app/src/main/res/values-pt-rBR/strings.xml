@@ -1,0 +1,9 @@
+<resources>
+    <string name="appName">Gasolina ou Etanol</string>
+    <string name="priceGas">Preço da gasolina:</string>
+    <string name="priceEthanol">Preço do etanol:</string>
+    <string name="use">Use</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="ethanol">Etanol</string>
+    <string name="gasolinaEtanol">Gasolina ou Etanol</string>
+</resources>

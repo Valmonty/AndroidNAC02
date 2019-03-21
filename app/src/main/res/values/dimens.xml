@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewPadding">12dp</dimen>
+    <dimen name="seekBarHeight">40dp</dimen>
+    <dimen name="textViewFontSize">16sp</dimen>
+    <dimen name="imageViewHeight">180dp</dimen>
+</resources>

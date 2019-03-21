@@ -1,0 +1,9 @@
+<resources>
+    <string name="appName">汽油或乙醇</string>
+    <string name="priceGas">每升气体价格:</string>
+    <string name="priceEthanol">每升乙醇的价格:</string>
+    <string name="use">最好使用...</string>
+    <string name="gasoline">汽油</string>
+    <string name="ethanol">乙醇</string>
+    <string name="gasolinaEtanol">汽油或乙醇</string>
+</resources>
